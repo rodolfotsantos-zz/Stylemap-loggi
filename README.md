@@ -1,12 +1,14 @@
 # Stylemap-loggi
 Mapa estilizado para a Loggi
 
-O código abaixo funciona com o plugin Sketch Map Generator: 
+O código abaixo funciona com o plugin Sketch Map Generator:
 https://github.com/eddiesigner/sketch-map-generator?ref=fordesignrs
 
 Podemos editar no Snazzymaps:
 https://snazzymaps.com/
 
+ou no próprio Google:
+https://mapstyle.withgoogle.com/
 
 ```
 [
